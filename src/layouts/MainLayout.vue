@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Quasar App
+          Battleship Game Test App
         </q-toolbar-title>
 
         <div>Quasar v{{ $q.version }}</div>
