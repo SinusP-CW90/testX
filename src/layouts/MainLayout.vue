@@ -12,10 +12,10 @@
         />
 
         <q-toolbar-title>
-          Battleship Game Test App
+          Battleship Game TEST App X
         </q-toolbar-title>
 
-        <div>Quasar v{{ $q.version }}</div>
+        <div>QuasarXXX v{{ $q.version }}</div>
       </q-toolbar>
     </q-header>
 
